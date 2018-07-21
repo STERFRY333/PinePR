@@ -1,0 +1,5 @@
+PinePR is a simple launcher to get you to the WiFi Pineapple dashboard
+without having to open your browser and enter the URL manually. This is
+automated and optionally password protected.
+
+PinePR is still a WIP project, this is REV.1.0
